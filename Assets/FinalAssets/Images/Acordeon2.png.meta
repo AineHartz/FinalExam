@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 32621eef1ca81f1488d16333f63582fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4755133003635432544
+    second: Acordeon2_0
+  - first:
+      213: -1468823099065179411
+    second: Acordeon2_1
+  - first:
+      213: -7856452190958637437
+    second: Acordeon2_2
+  - first:
+      213: -862904627040896959
+    second: Acordeon2_3
+  - first:
+      213: -1126975652064326335
+    second: Acordeon2_4
+  - first:
+      213: 5612557446891297207
+    second: Acordeon2_5
+  - first:
+      213: -6590350270941732417
+    second: Acordeon2_6
+  - first:
+      213: 7663650599225797450
+    second: Acordeon2_7
+  - first:
+      213: 977722206318842202
+    second: Acordeon2_8
+  - first:
+      213: 6523941011442687613
+    second: Acordeon2_9
+  - first:
+      213: 5868395780832636201
+    second: Acordeon2_10
+  - first:
+      213: -327767399684416336
+    second: Acordeon2_11
+  - first:
+      213: 5250814116056254543
+    second: Acordeon2_12
+  - first:
+      213: -50041331300432006
+    second: Acordeon2_13
+  - first:
+      213: 1493729718584298201
+    second: Acordeon2_14
+  - first:
+      213: 9049400303198232313
+    second: Acordeon2_15
+  - first:
+      213: -7337648713264500842
+    second: Acordeon2_16
+  - first:
+      213: -6174166667950399446
+    second: Acordeon2_17
+  - first:
+      213: -7536344027824067222
+    second: Acordeon2_18
+  - first:
+      213: -179012105977992206
+    second: Acordeon2_19
+  - first:
+      213: 3004582053507211907
+    second: Acordeon2_20
+  - first:
+      213: -9223348650701312427
+    second: Acordeon2_21
+  - first:
+      213: -4834024764385305090
+    second: Acordeon2_22
+  - first:
+      213: -4287627059939028137
+    second: Acordeon2_23
+  - first:
+      213: 4345001949035442915
+    second: Acordeon2_24
+  - first:
+      213: -4267410829815474032
+    second: Acordeon2_25
+  - first:
+      213: 2238712861517570199
+    second: Acordeon2_26
+  - first:
+      213: -6335349102796320318
+    second: Acordeon2_27
+  - first:
+      213: -3727187886891609983
+    second: Acordeon2_28
+  - first:
+      213: -6537996969859858863
+    second: Acordeon2_29
+  - first:
+      213: -7709180708365287669
+    second: Acordeon2_30
+  - first:
+      213: 6236762052218050090
+    second: Acordeon2_31
+  - first:
+      213: -3098100736341181398
+    second: Acordeon2_32
+  - first:
+      213: 9089279243008539257
+    second: Acordeon2_33
+  - first:
+      213: 5259905658136037074
+    second: Acordeon2_34
+  - first:
+      213: -7935740397246204510
+    second: Acordeon2_35
+  - first:
+      213: -5272725005154813694
+    second: Acordeon2_36
+  - first:
+      213: -6563758642273672327
+    second: Acordeon2_37
+  - first:
+      213: -5115864330951914979
+    second: Acordeon2_38
+  - first:
+      213: 8559703629581274710
+    second: Acordeon2_39
+  - first:
+      213: -6571261369779063893
+    second: Acordeon2_40
+  - first:
+      213: 5989303476307438941
+    second: Acordeon2_41
+  - first:
+      213: -1904770078208895225
+    second: Acordeon2_42
+  - first:
+      213: 7311441047565186251
+    second: Acordeon2_43
+  - first:
+      213: -6330500585385553954
+    second: Acordeon2_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acordeon2_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 185
+        width: 309
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7700cf9ca73e4ff0800000000000000
+      internalID: -50041331300432006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acordeon2_18
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 186
+        width: 310
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de8643907896790800000000000000
+      internalID: -7536344027824067222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acordeon2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 300
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbefa42075048df0800000000000000
+      internalID: -179012105977992206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acordeon2_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 198
+        width: 333
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382afcd657b62b920800000000000000
+      internalID: 3004582053507211907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acordeon2_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 183
+        width: 277
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eae530545100080800000000000000
+      internalID: -9223348650701312427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ce685be397e22c4fb6254c62a6475ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Acordeon2_0: -1451843592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
